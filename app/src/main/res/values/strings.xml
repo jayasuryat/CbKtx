@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">CouchBaseKtxSample</string>
+
+    <string name="replicating_data_message">Replicating data,\n please wait.</string>
+
+</resources>

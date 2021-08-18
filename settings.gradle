@@ -1,0 +1,3 @@
+include ':CouchBaseKtx'
+include ':app'
+rootProject.name = "CouchBaseKtxSample"
